@@ -1,1 +1,1 @@
-
+John is the oldest. The logic is: John > Alice > Brian, so John is older than both Alice and Brian.
