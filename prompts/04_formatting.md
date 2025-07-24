@@ -1,6 +1,15 @@
-## Task Type: Text Formatting
+## Task Type: Formatting
 
-Prompt:
-"Convert the following data into a markdown table:  
-Name: Ritesh, Age: 25, Role: Prompt Engineer  
-Name: Meena, Age: 28, Role: QA Analyst"
+### Prompt:
+"Convert the following data into JSON format:  
+Name: John  
+Age: 30  
+Occupation: Engineer"
+
+### Expected Output:
+```json
+{
+  "Name": "John",
+  "Age": 30,
+  "Occupation": "Engineer"
+}
