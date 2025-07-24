@@ -1,1 +1,10 @@
+To find the average speed, I need to divide distance by time.
 
+Given:
+- Distance = 60 km
+- Time = 1 hour and 30 minutes = 1.5 hours
+
+Average speed = Distance ÷ Time
+Average speed = 60 km ÷ 1.5 hours = 40 km/h
+
+The average speed is 40 km/h.
