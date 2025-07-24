@@ -1,1 +1,7 @@
+To find the average speed:
 
+$$
+\text{Average speed} = \frac{\text{Distance}}{\text{Time}} = \frac{60 \text{ km}}{1.5 \text{ hours}} = 40 \text{ km/h}
+$$
+
+**Answer: 40 km/h**
