@@ -116,6 +116,7 @@ ChatGPT and Claude extracted all required details without error. Field alignment
   "Age": 30,
   "Country": "USA"
 }
+```
 
 ### ChatGPT's Response:
 ```json
@@ -124,7 +125,7 @@ ChatGPT and Claude extracted all required details without error. Field alignment
   "Age": 30,
   "Country": "USA"
 }
-
+```
 
 Evaluation:
 Accuracy: Both are 100% correct.
@@ -147,9 +148,7 @@ Both models followed the formatting instructions precisely — whether JSON, Mar
 
 ---
 
-## 📝 4. Task: Logic
 
-```markdown
 ## Task: Logic
 
 ### Prompt:
