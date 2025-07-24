@@ -1,1 +1,1 @@
-
+John is the oldest. Since John is older than Alice, and Alice is older than Brian, John must be older than both.
