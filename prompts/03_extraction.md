@@ -1,4 +1,8 @@
-## Task Type: Data Extraction
+## Task Type: Information Extraction
 
-Prompt:
-"Extract the city names from this sentence: 'I traveled from Pune to Hyderabad and stopped at Nagpur and Indore on the way.'"
+### Prompt:
+"Extract the names and ages from the following text:  
+'Sarah, 28, and her brother Tom, 34, visited Paris last summer. They met their cousin Lily, who is 22, during the trip.'"
+
+### Expected Output:
+Sarah (28), Tom (34), Lily (22)
