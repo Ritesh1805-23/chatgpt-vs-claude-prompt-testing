@@ -118,6 +118,7 @@ ChatGPT and Claude extracted all required details without error. Field alignment
 }
 
 ### ChatGPT's Response:
+```json
 {
   "Name": "Alice",
   "Age": 30,
